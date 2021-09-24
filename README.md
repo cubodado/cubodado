@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=240&section=header&text=✨%20welcom%20to%20cubodado's%20github✨&fontSize=40" />
 
-<!--
-**cubodado/cubodado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cubodado&show_icons=true&count_private=true&hide_border=true"/>
+</div>  
 
-Here are some ideas to get you started:
+<div align="center">
+  <b>I'm Kang, a frontend developer 👩‍💻
+  <br/>
+  studying programming since 2020 🚀</b>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+  🌱 I’m currently learning Android Studio.
+  <br/>
+  ⚡Fun fact : The reason why I'm learning Android Studio is to make an app for my mom.
+</div>  
+
+<br/>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cubodado&show_icons=true&locale=en&layout=compact" alt="cubodado" />
+</div>
+
+<br/>
+
