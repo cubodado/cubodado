@@ -9,5 +9,3 @@ I majored in fine arts and started studying programming in January 2020✨
 
 #### 🗣️ Languages
 <img src="https://img.shields.io/badge/Korean ★★★★★-2088FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Japanese ★★★★☆-C71D23?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/English ★★★☆☆-161A36?style=flat-square&logoColor=white"/> 
-
-<br/>
