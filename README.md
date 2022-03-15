@@ -1,6 +1,6 @@
 ## 💁🏻 About me
 
-Hi! I'm Hyunyoung KANG, from South Korea.
+Hi! I'm **Hyunyoung KANG**, from South Korea.
 
 I majored in fine arts and started studying programming in January 2020✨
 
@@ -9,3 +9,8 @@ I majored in fine arts and started studying programming in January 2020✨
 
 #### 🗣️ Languages
 <img src="https://img.shields.io/badge/Korean ★★★★★-2088FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Japanese ★★★★☆-C71D23?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/English ★★★☆☆-161A36?style=flat-square&logoColor=white"/> 
+
+#### 📧 Contact
+
+<a href="mailto:dalkang.hy@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a> <a href="https://cubodado.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://cubodado.github.io"/></a>
+
